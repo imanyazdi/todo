@@ -1,0 +1,10 @@
+.container label{
+    text-align: left;
+    display: block;
+}
+.BtnBox{
+    text-align: start;
+}
+.btn{
+    margin: .5rem;
+}

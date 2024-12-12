@@ -1,0 +1,30 @@
+.Listitem h3{
+    top: 2rem;
+    position: relative;
+    text-align: left;
+    left: 5rem;
+}
+.boxs{
+    margin: 4rem auto;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+.box {
+    display: flex; 
+    flex-direction: column;
+    text-align: start;
+    border: solid 2px rgba(0, 0, 0, 0.247);
+    margin: 1rem auto;
+    height: 6rem;
+    width: 90%;
+    padding: .5rem 1rem;
+}
+.button{
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    bottom: .8rem;
+}
+
